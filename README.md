@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ilya - software engineer at [Mobalytics](Mobalytics).
+### Hi 👋, I'm Ilya - Frontend Engineer at [Mobalytics](Mobalytics).
 I'm working on a personal game assistant that will help gamers to improve their skills.
 
 #### 📫 How to reach me:
