@@ -3,5 +3,5 @@ Have rich experience in architecting and developing scalable web apps.
 Built development processes for small startups as well as large high-load projects.
 
 #### 📫 You can reach me:
-+ [LinkedIn](https://www.linkedin.com/in/ilya-pashkov-5b6157201)
++ [LinkedIn](https://www.linkedin.com/in/ispashkov/)
 + [Telegram](https://t.me/ispashkov)
