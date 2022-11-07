@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Ilya - Software Engineer at [Mobalytics](Mobalytics).
-I'm working on a personal game assistant that will help gamers to improve their skills.
+Have rich experience in architecting and developing scalable web apps. 
+Built development processes for small startups as well as large high-load projects.
 
 #### 📫 You can reach me:
 + [LinkedIn](https://www.linkedin.com/in/ilya-pashkov-5b6157201)
