@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Ilya - Software Engineer at [Mobalytics](Mobalytics).
-Have rich experience in architecting and developing scalable web apps.  
-Built development processes for small startups as well as large high-load projects.
+Frontend Engineer with a diverse background in developing web applications across various industries. I have excelled in multiple roles, including IC, product team member, and team leader.
+
+Throughout my career, I have tackled numerous challenges, ranging from Design System development, performance enhancements, and third-party API integrations to architecting the frontend of a large-scale monitoring system.
 
 #### 📫 You can reach me:
 + [LinkedIn](https://www.linkedin.com/in/ispashkov/)
